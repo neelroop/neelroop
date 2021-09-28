@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @neelroop
-- 👀 I’m interested in using computational biology approaches to diagnose and treat human disease.
-- 🌱 I’m currently learning a little bit of everything.
-- 💞️ I’m looking to collaborate on better approaches to causality and approahces to reconstruct gene regulatory networks.
-- 📫 Reach me via @neelroop on twitter.
+Hi, I'm Neel. I’m interested in using computational biology approaches to diagnose and treat human disease. I'm excited about novel methods to infer causality and  reconstruct gene regulatory networks. You can reach me via @neelroop on twitter.
 
 <!---
 neelroop/neelroop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
